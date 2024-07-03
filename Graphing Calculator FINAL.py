@@ -6,7 +6,7 @@ from tkinter.font import Font
 
 root = Tk()
 root.title("Graphing Calculator")
-root.iconbitmap('Icon.ico')
+root.iconbitmap('Assets/Icon.ico')
 root.state('zoomed')
 root.attributes("-fullscreen", True)
 
@@ -18,17 +18,17 @@ headingFont = Font(family="Cambria Math", size=36, weight="bold")
 buttonFont = Font(family="Times New Roman")
 boldFont = Font(family="Times New Roman", weight="bold")
 
-diffImage = PhotoImage(file='Differentiation.png')
-intImage = PhotoImage(file='Integration.png')
-darkDiffImage = PhotoImage(file='darkDifferentiation.png')
-darkIntImage = PhotoImage(file='darkIntegration.png')
+diffImage = PhotoImage(file='Assets/Differentiation.png')
+intImage = PhotoImage(file='Assets/Integration.png')
+darkDiffImage = PhotoImage(file='Assets/darkDifferentiation.png')
+darkIntImage = PhotoImage(file='Assets/darkIntegration.png')
 
-ddxImage = PhotoImage(file='thinDifferentiation.png')
-intgrlImage = PhotoImage(file='thinIntegration.png')
-dxImage = PhotoImage(file='dx.png')
-darkDdxImage = PhotoImage(file='thinDarkDifferentiation.png')
-darkIntgrlImage = PhotoImage(file='thinDarkIntegration.png')
-darkDxImage = PhotoImage(file='darkDx.png')
+ddxImage = PhotoImage(file='Assets/thinDifferentiation.png')
+intgrlImage = PhotoImage(file='Assets/thinIntegration.png')
+dxImage = PhotoImage(file='Assets/dx.png')
+darkDdxImage = PhotoImage(file='Assets/thinDarkDifferentiation.png')
+darkIntgrlImage = PhotoImage(file='Assets/thinDarkIntegration.png')
+darkDxImage = PhotoImage(file='Assets/darkDx.png')
 
 darkMode = False
 language = 0
