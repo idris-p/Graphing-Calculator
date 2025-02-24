@@ -1,6 +1,6 @@
 # Graphing Calculator  
   
-An interactive graphing calculator application built using **Python**, **Tkinter**, and **NumPy**. It allows users to plot up to **20 Cartesian equations** simultaneously, with a wide range of mathematical functions available. The application includes various customisation options, a **calculus problem solver**, and a settings menu.  
+An interactive graphing calculator application built using **Python**, **Tkinter**, and **SymPy**. It allows users to plot up to **20 Cartesian equations** simultaneously, with a wide range of mathematical functions available. The application includes various customisation options, a **calculus problem solver**, and a settings menu.  
 
 ## Features  
 ✅ **Graph Plotting** – Input up to **20 equations** and visualise them on a Cartesian plane.  
