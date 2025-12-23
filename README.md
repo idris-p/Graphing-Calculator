@@ -11,3 +11,6 @@ An interactive graphing calculator application built using **Python**, **Tkinter
    - **Full-Screen Mode**  
    - **Language Selection**  
    - **Dark Mode Toggle** 
+
+## Screenshots
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99834837-6c63-439d-9252-0535234ff664" />
